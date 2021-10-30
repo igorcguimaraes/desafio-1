@@ -34,9 +34,9 @@ body{
 }
 
 .cabecalho .logo{
-    background: url(logo.png) center center no-repeat;
-    width: 48,28px;
-    height: 41,8px;
+    background-image: url(src/logo.png);
+    width: 48.28px;
+    height: 41.8px;
     display: inline-block;
 }
 
